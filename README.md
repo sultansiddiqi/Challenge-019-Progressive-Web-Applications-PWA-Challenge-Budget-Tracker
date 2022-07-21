@@ -20,7 +20,7 @@ The user, a traveller who wants to be able to some transactions can do so with o
 - When the user reestablishes an internet connection, then the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 
-## Screen Shots
+## Screen Shot
 ![App Screenshot](/public/images/screenshot.png)  
 
 ## Installation
@@ -43,8 +43,8 @@ The user, a traveller who wants to be able to some transactions can do so with o
 This project is under no license
 
 ## Submission  
-[Employee Tracker repository](https://github.com/sultansiddiqi/)  
-[Deployed App](https://vclbudgettracker.herokuapp.com)  
+[Employee Tracker repository](https://github.com/sultansiddiqi/Challenge-019-Progressive-Web-Applications-PWA-Challenge-Budget-Tracker)  
+[Deployed App](https://git.heroku.com/travelbudgetracker019.git)  
 
 ## Questions:  
  Here is a link to my github:  
