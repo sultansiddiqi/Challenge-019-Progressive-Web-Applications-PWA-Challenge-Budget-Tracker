@@ -45,7 +45,8 @@ This project is under no license
 
 ## Submission  
 [Employee Tracker repository](https://github.com/sultansiddiqi/Challenge-019-Progressive-Web-Applications-PWA-Challenge-Budget-Tracker)  
-[Deployed App](https://git.heroku.com/travelbudgetracker019.git)  
+[Deployed App](https://git.heroku.com/travelbudgetracker019.git) 
+- Working on fixing 
 
 ## Questions:  
  Here is a link to my github:  
