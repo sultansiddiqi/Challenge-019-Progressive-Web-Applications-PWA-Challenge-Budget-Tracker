@@ -23,7 +23,7 @@ function populateTotal() {
   let totalEl = document.querySelector("#total");
   totalEl.textContent = total;
 }
-
+// populate the table
 function populateTable() {
   let tbody = document.querySelector("#tbody");
   tbody.innerHTML = "";
@@ -77,7 +77,7 @@ function populateChart() {
     }
   });
 }
-
+// new function 
 function sendTransaction(isAdding) {
   let nameEl = document.querySelector("#t-name");
   let amountEl = document.querySelector("#t-amount");

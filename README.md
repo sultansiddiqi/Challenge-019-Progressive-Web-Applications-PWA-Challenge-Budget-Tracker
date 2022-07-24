@@ -15,6 +15,7 @@
 The user, a traveller who wants to be able to some transactions can do so with or without a data/internet connection so that their account balance is accurate while traveling.
 
 ## Acceptance Criteria  
+- This app allows a user to quickly input some transactions and view a graph of these transactions
 - Given a budget tracker without an internet connection
 - When the user inputs an expense or deposit, they will receive a notification that they have added an expense or deposit
 - When the user reestablishes an internet connection, then the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
